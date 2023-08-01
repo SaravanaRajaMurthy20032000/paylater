@@ -1,1 +1,1 @@
-{'status': 'success', 'data': None, 'message': 'Repayment successfull!'}
+{'status': 'success', 'data': [{'merchant_id': 3, 'name': 'Cream Stone', 'email': 'creamstone@gmail.com', 'fee': Decimal('10.00')}], 'message': 'Merchant id has founded!'}
